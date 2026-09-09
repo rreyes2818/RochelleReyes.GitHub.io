@@ -8,4 +8,4 @@
 ### URL: https://r4ds.had.co.nz/
 ### Authors: Hadley Wickham & Garrett Grolemund licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 and hosted by https://www.nelify.com
 ### R for Data Science introduces R language. It teaches how to get data into R and transforms data into the most useful structure then visualizes and models it. It also teaches the use of grammar for graphics, literate programming, and reproducible research to save time. 
-### I have very limited knowledge in the R data language, but I have known that it couldbe a powerful tool to use for dashboards and graphics.
+### I have very limited knowledge in the R data language, but I have known that it could be a powerful tool to use for dashboards and graphics.
